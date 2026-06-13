@@ -1,6 +1,6 @@
 (Ops! não deu certo fazer o diagrama aqui, como esperado. Beeem, pode clicar em editar o readme pelo arquivo, se quiser ver algo.)
 
-
+.
 
 Falllllaaa ai Ryanzinho! u to aqui pra falar sobre esse projeto que é só uma introdução breve e fácil de como usar efetivamente a 
 Programação Orientada a Objetos!! 
