@@ -27,9 +27,7 @@ A maioria desses é bem auto-explicativa.
 :   getNota()          :
 :  verificarSituacao():
  ----------------------
-          ^
-          [
-           ]
+        
  ----------------------
 :         Main         :
  ----------------------
